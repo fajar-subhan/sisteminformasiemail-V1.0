@@ -1,5 +1,5 @@
 # APLIKASI SISTEM INFORMASI EMAIL
-![contoh](https://github.com/Fajarsubhan/sisteminformasiemail-V1.0/assets/contoh.png)
+![contoh](https://github.com/Fajarsubhan/sisteminformasiemail-V1.0/blob/master/assets/contoh.png)
 Adalah sebuah aplikasi berbasis website yang dikembangkan dengan PHP-Native sebagai backend dan BOOTSTRAP untuk front-end yang berguna mengelola data email karyawan maupun bisa juga untuk mengolah data karyawan sederhana secara mudah
 
 ## Bahan-Bahan
