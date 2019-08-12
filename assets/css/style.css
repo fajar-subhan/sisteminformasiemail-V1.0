@@ -1,0 +1,49 @@
+@font-face {
+	font-family: sourcesans;
+	src:url('../fonts/sourcesanspro-bold-webfont.woff') format('woff');
+}
+
+@font-face {
+	font-family: lato;
+	src:url('../fonts/lato-light-webfont.woff') format('woff');
+}
+
+
+footer {
+	margin-top: 50px;
+	font-size: 14px;
+	font-family: lato;
+}
+/* =================############ Login.php ################## */
+
+/* Sistem informasi heading */
+h1.bold {
+	font-family: sourcesans;
+	text-transform: uppercase;
+}
+
+.error {
+	font-family: lato;
+	background-color: rgba(215, 44, 44, 0.3);
+	color:rgba(215, 44, 44, 1);
+	border-radius: 10px;
+	font-weight: bold;
+	padding:10px;
+}
+
+.loginmt {
+	margin-top: 190px;
+}
+
+button .center {
+	position: absolute;
+	left: 20px;
+}
+
+.black ul li a {
+	color: black;
+}
+
+.black ul li a:hover {
+	color:rgba(88, 88, 88, 0.74);
+}
