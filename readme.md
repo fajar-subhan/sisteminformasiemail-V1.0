@@ -11,5 +11,5 @@ Adalah sebuah aplikasi berbasis website yang dikembangkan dengan PHP-Native seba
 ## Installasi
 1. Letakaan file [sisteminformasiemail-V1.0](https://github.com/Fajarsubhan/sisteminformasiemail-V1.0) ini di server online atau localhost
 2. Siapkan sebuah database dan import file sql yang sudah saya sediakan
-3. Untuk useername: admin pass: admin1234
+3. Untuk username: admin pass: admin1234
 4. Selesai
